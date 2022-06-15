@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sathyanarayanan@sathya8998
-- 👀 I’m interested in Machine Leadrning and Deep Learning Fields
+- 👀 I’m interested in Machine Learning and Deep Learning Fields
 - 🌱 I’m currently learning concepts Related to Computer vision and Natural Language Processing
 
 
