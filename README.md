@@ -12,6 +12,7 @@ I build high-stakes AI systems that bridge the gap between biological signals an
 * **[Gait Scoring (CVPR 2026)](https://github.com/sathya8998/Spatio-Temporal-Skeleton-Fusion-for-Clinical-Gait-Scoring):** Biomechanical **ST-GCN** for fine-grained gait analysis in pediatric Cerebral Palsy (Children Gait Pose Sequence dataset).
 * **[Muscle Morphometry](https://github.com/sathya8998/Skeletal-Muscle-Architecture-Estimation-using-EfficientNet-and-Grad-CAM):** Automating ultrasound-based biomarker extraction (Pennation Angle, Fascicle Length) using EfficientNet and Grad-CAM.
 * **[Context-Aware Sensing](https://github.com/sathya8998/Multi-Modal-IMU-GNSS-Fusion-for-Indoor-Outdoor-Environment-Classification-with-XAI):** Fusing **IMU & GNSS** via XGBoost to decode environmental context from walking patterns.
+* **[Terrain-Aware Navigation](https://github.com/sathya8998/Multi-Modal-Fusion-and-Multi-Task-Learning-for-Terrain-Aware-Navigation):** Robotic perception fusing **RGB, PointNet, and IMU** for autonomous movement.
 
 ## 🧠 Pillar II: Neuroengineering & BCI
 *Developing low-latency, zero-calibration systems for decoding brain states and intentions.*
@@ -27,7 +28,7 @@ I build high-stakes AI systems that bridge the gap between biological signals an
 * **[Stroke Biomarker Discovery](https://github.com/sathya8998/Hybrid-Graph-Attention-Network-for-Ischemic-Stroke-Detection-and-Biomarker-Discovery):** Using **Graph Attention Networks (GAT)** to fuse gene expression with PPI networks for transcriptomic analysis.
 * **[Stroke CT Segmentation](https://github.com/sathya8998/Brain-Stroke-Detection-and-Segmentation-using-Multi-Task-ResNet-UNet):** Multi-task **ResNet-UNet** for simultaneous pathology classification and lesion localization.
 * **[DermAI Safety Routing](https://github.com/sathya8998/DermAI-Domain-Aware-Soft-Routing-for-Skin-Classification):** Reliability-focused skin classification with **Safety Abstention** protocols for clinical trust.
-* **[Terrain-Aware Navigation](https://github.com/sathya8998/Multi-Modal-Fusion-and-Multi-Task-Learning-for-Terrain-Aware-Navigation):** Robotic perception fusing **RGB, PointNet, and IMU** for autonomous movement.
+
 
 
 ## 🛠️ Technical Toolkit
